@@ -27,7 +27,7 @@ to make a new repository
 2) once there, open the terminal and type mkdir (your repo name here). for example, in github if you made a repo called about-me, you would do mkdir about-me.
 3) then cd about-me which will switch you to that repository/directory
 4) use git init which will initialize the repo
-5) use touch README.md which will make a file called README.md in that area 
+5) use touch README.md which will make a file called README.md in that area
 6) c9 README.md which will then open the file, add some text into the readme and then command + S on your keyboard to save
 7) use git add README.md to add it, then git commit -m "whatever you changed" (example" git commit -m "added text in the readme")
 8) once done do git remote add origin (github repo link here) (example: git remote add origin github.com/user123/about-me)
@@ -35,3 +35,6 @@ to make a new repository
 10) refresh your github repo and you should see changes!
 ---
 ## Workflow & Commands
+
+feedback from jenny:
+very nicely done, andrew! But i would suggest to try to bold and italize some words (ex: like the commands) which are very important.
